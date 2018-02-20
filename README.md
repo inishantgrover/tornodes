@@ -20,4 +20,4 @@ Fetch list of tornodes every 30 minutes from https://www.dan.me.uk/tornodes
 * Feed this tornodes.txt into your security solution such as web proxies/gateways/SIEM to monitor your network for TOR related activities.
 
 **Cheers!**
-Twitter: @inishantgrover
+Twitter: @ngrovyer
